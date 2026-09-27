@@ -9,7 +9,7 @@
 	url = https://github.com/uynitsuj/robosuite
 [submodule "capx/third_party/contact_graspnet_pytorch"]
 	path = capx/third_party/contact_graspnet_pytorch
-	url = https://github.com/JongHyunSeo11/contact_graspnet_pytorch.git
+	url = https://github.com/uynitsuj/contact_graspnet_pytorch
 [submodule "capx/third_party/libero_dependencies/robosuite"]
 	path = capx/third_party/libero_dependencies/robosuite
 	url = https://github.com/Max-Fu/robosuite
